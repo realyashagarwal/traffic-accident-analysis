@@ -15,7 +15,7 @@ This project analyzes traffic accident data to identify trends related to time, 
 - pandas, numpy
 - plotly
 - gradio
-- openpyxl
+  
 
 ## 📁 Dataset
 
@@ -26,11 +26,4 @@ The dataset was provided in Excel format and includes:
 
 (Note: Please ensure data sharing complies with any license or privacy terms.)
 
-## 🚀 Getting Started
 
-To run this project locally:
-
-1. Clone the repository
-2. Install required packages:
-   ```bash
-   pip install -r requirements.txt
